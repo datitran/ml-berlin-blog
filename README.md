@@ -41,9 +41,18 @@ pip install keras
 
 **TensorFlow:**
 
+CPU:
 ```sh
 pip install tensorflow
 ```
+
+GPU:
+```sh
+pip install tensorflow-gpu
+```
+
+
+* For GPU support [CUDA](https://developer.nvidia.com/cuda-toolkit) and [cuDNN](https://developer.nvidia.com/cudnn) are needed ([check out the official guide](https://www.tensorflow.org/install/) for more information)
 
 ## Import
 
